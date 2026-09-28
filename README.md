@@ -1,6 +1,6 @@
-## Live Demo
-
-[Open the Live App](https://ippsha-rgb-heart-disease-prediction-app-nzo7nu.streamlit.app/)
+ 💗 Live Demo
+ 
+ 🎀 [Open the Live App](https://ippsha-rgb-heart-disease-prediction-app-nzo7nu.streamlit.app/) ➜
 
 # Heart Disease Prediction
 
