@@ -4,7 +4,7 @@ import joblib
 
 model=joblib.load('Logistic Regression_heart.pkl')
 scaler=joblib.load('heart_scaler.pkl')
-expected_columns=joblib.load('heart_columns.pkl')
+expected_columns=joblib.load('heart_columns.pkl')()
 
 st.title('Heart Disease Prediction')
 st.markdown("Provide the following details")
